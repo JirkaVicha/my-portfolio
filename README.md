@@ -1,8 +1,5 @@
-# React + Vite
+# George's webpage portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This webpage is my personal portfolio or website. Upon loading, it showcases a clean and minimalist design, featuring various sections including an introduction, projects, skills, and contact information. The layout is visually appealing, with well-organized content and easy navigation. It likely serves as a platform for me to showcase my work, skills, and contact details to potential clients or employers.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Life preview: https://george-web.netlify.app/
